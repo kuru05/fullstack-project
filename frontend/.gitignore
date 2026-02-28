@@ -1,0 +1,4 @@
+# Fichiers à ignorer pour le frontend
+node_modules/
+dist/
+.env*
